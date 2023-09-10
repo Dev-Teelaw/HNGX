@@ -11,8 +11,8 @@ const details = (req, res) => {
         current_day: currentDay,
         utc_time: currentUTCTime,
         track: track,
-        github_file_url: 'https://github.com/adesinak4/HNG/blob/main/Backend%20Stage%20One/app.js',
-        github_repo_url: 'https://github.com/adesinak4/HNG/tree/main/Backend%20Stage%20One',
+        github_file_url: 'https://github.com/Dev-Teelaw/HNGX/blob/main/task1/app.js',
+        github_repo_url: 'https://github.com/Dev-Teelaw/HNGX/tree/main/task1',
         status_code: 200,
     };
 
